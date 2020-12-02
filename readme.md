@@ -10,4 +10,4 @@ There is a nav bar at the top of the page that shifts to a hamburger menu on sma
 
 ###User Stories
 -As a {person who likes jokes} want to search for images so that {I can get a chuckle}.
--As a {person wanting imagery} I want to be able to search for images that I can {filter to a topic}.
+-As a {person wanting to look at imagery} I want  to search for images that I can {filter to a topic}.
